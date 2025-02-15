@@ -23,8 +23,8 @@ Before cloning this repository, ensure you have the following installed on your 
 ```bash
 git clone https://github.com/asrafulmolla/JS-Journey.git
 
-
-JS-Journey/
+```
+-**JS-Journey/**
 │── # Introduction to JavaScript  
 │── # ES6 & DOM Manipulation  
 │── # API & Asynchronous JavaScript  
