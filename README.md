@@ -11,4 +11,4 @@ A structured journey through JavaScript, covering ES6, DOM manipulation, APIs, a
 ## 🔥 Getting Started:
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/YOUR_USERNAME/JS-Journey.git
+   git clone https://github.com/asrafulmolla/JS-Journey.git
